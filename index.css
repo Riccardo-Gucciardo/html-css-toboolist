@@ -1,0 +1,39 @@
+*{
+    outline: 2px solid red;
+
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#logo{
+    width: 70px;
+    height: 70px;
+}
+
+#logo, .text-vertical{
+    vertical-align: middle;
+   
+}
+.text-vertical{
+    font-size: xxx-large;
+}
+.posizione{
+    width: 60%;
+    margin: 0 auto;
+}
+.bottoni{
+    font-size: large;
+}
+.barra-interazione{
+    margin: 50px;
+    text-align: left;
+    padding: 30px;
+}
+   
+
+
+
+
